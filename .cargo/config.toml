@@ -1,0 +1,6 @@
+[source.git-dep]
+git = 'https://github.com/JanLikar/example_crate'
+replace-with = 'local-registry'
+
+[source.local-registry]
+local-registry = 'registry'
